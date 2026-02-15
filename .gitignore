@@ -1,0 +1,10 @@
+# Python
+.venv/
+__pycache__/
+*.pyc
+
+# Rust build files
+password_crypto/target/
+
+# VS Code
+.vscode/
