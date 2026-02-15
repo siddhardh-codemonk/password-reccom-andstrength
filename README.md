@@ -25,10 +25,10 @@ User Input → ML Evaluation → Recommendation → Rust Encryption → Output
 ## How to Run
 
 1. Build Rust binary:
-cd password_crypto
-cargo build --release
+- cd password_crypto
+- cargo build --release
 2. Run Python tool:
-python rustconnector.py
+- python rustconnector.py
 
 ## Version
 v1 – Rust encryption + Python integration pipeline
